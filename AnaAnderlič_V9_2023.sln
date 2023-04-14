@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filmi", "Filmi\Filmi.csproj", "{C9048841-20BD-4BA7-A250-702DD6C4BB58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nobel", "Nobel\Nobel.csproj", "{A31678E9-B676-48A2-B02A-3A0730F6A411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadajociDez", "PadajociDez\PadajociDez.csproj", "{4561FB30-1C85-4001-B70F-13502B9F20F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9048841-20BD-4BA7-A250-702DD6C4BB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9048841-20BD-4BA7-A250-702DD6C4BB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9048841-20BD-4BA7-A250-702DD6C4BB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9048841-20BD-4BA7-A250-702DD6C4BB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31678E9-B676-48A2-B02A-3A0730F6A411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31678E9-B676-48A2-B02A-3A0730F6A411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31678E9-B676-48A2-B02A-3A0730F6A411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31678E9-B676-48A2-B02A-3A0730F6A411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4561FB30-1C85-4001-B70F-13502B9F20F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4561FB30-1C85-4001-B70F-13502B9F20F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4561FB30-1C85-4001-B70F-13502B9F20F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4561FB30-1C85-4001-B70F-13502B9F20F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {622BFCA3-8E56-43A3-9260-31B70586344B}
+	EndGlobalSection
+EndGlobal
